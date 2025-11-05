@@ -12,7 +12,7 @@ def menu_opciones():
     while True:
         print("\n=== MENU DE OPCIONES ===")
         print("1. Convertir texto a voz")
-        print("2. Conversar con el chat")
+        print("2. Como si fuera un chat boot xd")
         print("3. Salir")
         
         opcion = input("Elige una opcion ")
